@@ -1,4 +1,12 @@
+body {
+	background-color: #dad9d5;
+	background-image: url("/img/orkide.jpg");
+	background-repeat: no-repeat;
+}
+
 .container {
 	margin: 0 auto;
-	width: 240px;
+	width: 400px;
+	background-color: #dad9d580;
+	padding: 50px;
 }
