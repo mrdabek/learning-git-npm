@@ -9,4 +9,3 @@ You can find live project here
 https://bright-muffin-be7f03.netlify.app/ 
 
 
-![Uploading Screenshot 2023-03-21 at 14.25.19.png…]()
